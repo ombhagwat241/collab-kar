@@ -11,8 +11,14 @@ export default function Home() {
               From ABC to PhD — Learn smart, earn simple.
             </h1>
             <div className="space-y-4 text-lg md:text-xl opacity-90 max-w-3xl mx-auto">
-              <p>Affordable tutoring for students. Flexible income for tutors.</p>
-              <p>Whether you're learning or teaching — Graspal is your trusted companion.</p>
+              <p>
+                Reliable promotions for brands. Meaningful partnerships for
+                influencers.
+              </p>
+              <p>
+                Whether you&apos;re growing a business or building a personal brand —
+                our platform brings you together.
+              </p>
             </div>
           </div>
 
@@ -36,8 +42,11 @@ export default function Home() {
       {/* Challenge Section */}
       <section className="py-16 md:py-24 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="text-3xl md:text-5xl font-bold text-center text-orange-500 mb-16">
-            The Challenge We're Solving
+          <h2
+            className="text-3xl md:text-5xl font-bold text-center mb-16"
+            style={{ color: "#5A827E" }}
+          >
+            The Challenge We&apos;re Solving
           </h2>
 
           <div className="grid md:grid-cols-2 gap-8 md:gap-12">
@@ -78,7 +87,11 @@ export default function Home() {
               We connect learners from LKG to college with verified, friendly tutors — including smart college students,
               talented teens, and educated homemakers.
             </p>
-            <p>Whether you need to ace a test or make extra income from home, Graspal makes it simple.</p>
+            <p>
+              Whether you&apos;re a brand looking for real results or an influencer
+              ready to grow, we make it easy to discover, collaborate, and
+              succeed.
+            </p>
           </div>
         </div>
       </section>
@@ -144,7 +157,8 @@ export default function Home() {
           </div>
 
           <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            We're working hard to bring Graspal to life. Get ready for an amazing learning experience!
+            We&apos;re building something powerful for creators and brands. Get ready
+            for a smarter, smoother way to collaborate and grow!
           </p>
         </div>
       </section>
