@@ -31,7 +31,7 @@ export default function Home() {
                 influencers.
               </p>
               <p>
-                Whether you're growing a business or building a personal brand —
+                Whether you&apos;re growing a business or building a personal brand —
                 our platform brings you together.
               </p>
             </div>
@@ -58,7 +58,7 @@ export default function Home() {
             className="text-3xl md:text-5xl font-bold text-center mb-16"
             style={{ color: "#5A827E" }}
           >
-            The Challenge We're Solving
+            The Challenge We&apos;re Solving
           </h2>
 
           <div className="grid md:grid-cols-2 gap-8 md:gap-12">
@@ -122,7 +122,7 @@ export default function Home() {
               creators through a fast, transparent, and all-in-one platform.
             </p>
             <p>
-              Whether you're a brand looking for real results or an influencer
+              Whether you&apos;re a brand looking for real results or an influencer
               ready to grow, we make it easy to discover, collaborate, and
               succeed.
             </p>
@@ -221,7 +221,7 @@ export default function Home() {
           </div>
 
           <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            We're building something powerful for creators and brands. Get ready
+            We&apos;re building something powerful for creators and brands. Get ready
             for a smarter, smoother way to collaborate and grow!
           </p>
         </div>
